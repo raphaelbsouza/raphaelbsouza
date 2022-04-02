@@ -14,4 +14,4 @@
   <li>C# .NET</li>
 </ul></h6> 
 
-<b>raphaelstc@msn.com</b>
+<h6>contato: <b>raphaelstc@msn.com</b></h6>
