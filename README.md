@@ -7,6 +7,7 @@
   <li>Bootstrap</li>
   <li>JavaScript</li>
   <li>PHP</li>
+  <li>Python</li>
   
   <li>MySQL</li>
   <li>SQL Server</li>
