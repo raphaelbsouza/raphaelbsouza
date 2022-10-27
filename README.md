@@ -7,11 +7,10 @@
   <li>JavaScript</li>
   <li>PHP</li>
   <li>Python</li>
-  
+  <li>C# .NET</li> 
   <li>MySQL</li>
   <li>SQL Server</li>
-  
-  <li>C# .NET</li>
+ 
 </ul></h6> 
 
 <h6>contato: <b>raphaelstc@msn.com</b></h6>
