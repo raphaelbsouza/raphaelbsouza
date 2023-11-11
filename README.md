@@ -3,7 +3,7 @@
 <h6><ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript<>
+  <li>JavaScript</li>
   <li>Bootstrap</li>
   <li>Python</li>
   <li>MySQL</li>
