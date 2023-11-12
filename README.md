@@ -6,8 +6,7 @@
   <li>JavaScript</li>
   <li>Bootstrap</li>
   <li>Python</li>
-  <li>MySQL</li>
-  <li>SQL Server</li>
+  <li>SQL</li>
 </ul></h6> 
 
 <h6>contato: <b>raphaelstc@msn.com</b></h6>
