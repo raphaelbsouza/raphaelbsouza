@@ -9,6 +9,5 @@
   <li>SQL</li>
 </ul></h6> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ra
-phael%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-souza-196742123/)](https://www.linkedin.com/in/raphael-souza-196742123/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-souza-196742123/)](https://www.linkedin.com/in/raphael-souza-196742123/) 
 [![Gmail Badge](https://img.shields.io/badge/-raphaelstc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelstc@gmail.com)](mailto:raphaelstc@gmail.com)
