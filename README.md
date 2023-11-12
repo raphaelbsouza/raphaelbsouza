@@ -8,5 +8,5 @@
   <li>Python</li>
   <li>SQL</li>
 </ul></h6> 
-
+[:email:]
 <h6>contato: <b>raphaelstc@msn.com</b></h6>
