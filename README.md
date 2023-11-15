@@ -1,13 +1,15 @@
 <h3>Seja Bem vindo ao meu Perfil GitHub.</h3>
 
-<h6><ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Bootstrap</li>
-  <li>Python</li>
-  <li>SQL</li>
-</ul></h6> 
+<h6>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Bootstrap</li>
+    <li>Python</li>
+    <li>SQL</li>
+  </ul>
+</h6> 
 <div align="left" valign="top">
 <br/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
