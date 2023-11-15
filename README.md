@@ -15,8 +15,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <br/>
-</div>
-<div>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-souza-196742123/)](https://www.linkedin.com/in/raphael-souza-196742123/) 
 [![Gmail Badge](https://img.shields.io/badge/-raphaelstc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelstc@gmail.com)](mailto:raphaelstc@gmail.com)
+
 </div>
