@@ -1,15 +1,4 @@
 <h3>Seja Bem vindo ao meu Perfil GitHub.</h3>
-
-<h6>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Bootstrap</li>
-    <li>Python</li>
-    <li>SQL</li>
-  </ul>
-</h6> 
 <div align="left" valign="top">
 <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django" style="widht: 50px height="50px" />
