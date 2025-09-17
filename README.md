@@ -1,7 +1,7 @@
 <h3>Seja Bem vindo ao meu Perfil GitHub. 🤗</h3>
 <div align="left" valign="top">
 <br/> 
-  <p>#### 🌐 Frontend  #### 🐍 Backend #### 🗄️ Bancos de Dados</p>
+  <p>🌐 Frontend  # 🐍 Backend # 🗄️ Bancos de Dados</p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django" style="widht: 50px height="50px" />
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" style="widht: 50px height="50px" />
 <br/><br/>
