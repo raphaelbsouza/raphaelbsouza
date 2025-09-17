@@ -2,7 +2,7 @@
 <div align="left" valign="top">
 <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django" style="widht: 50px height="50px" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" style="width: 50px; height: 50px;" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" style="widht: 50px height="50px" />
   
 <br/><br/>
   
