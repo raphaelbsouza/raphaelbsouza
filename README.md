@@ -1,24 +1,13 @@
 <h3>Seja Bem vindo ao meu Perfil GitHub. 🤗</h3>
 <div align="left" valign="top">
-<br/>
+<br/> 
+  #### 🌐 Frontend  #### 🐍 Backend #### 🗄️ Bancos de Dados
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django" style="widht: 50px height="50px" />
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" style="widht: 50px height="50px" />
 <br/><br/>
 
-### 🚀 Tecnologias & Ferramentas
-
-<div align="center">
-  
-#### 🌐 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" style="widht: 50px height="50px" />
-#### 🐍 Backend  
-<img src="https://skillicons.dev/icons?i=python,django" style="widht: 50px height="50px" />
-#### 🗄️ Bancos de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" style="widht: 50px height="50px" />
-
-
 ### 🌎 Conecte-se comigo
 [![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelbsouza/)](https://www.linkedin.com/in/raphaelbsouza/) 
 [![Gmail Badge](https://img.shields.io/badge/-raphaelstc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelstc@gmail.com)](mailto:raphaelstc@gmail.com)
-
+</div>
 </div>
