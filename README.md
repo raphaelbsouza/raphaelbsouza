@@ -2,8 +2,8 @@
 <div align="left" valign="top">
 <br/> 
   <p>🌐 Frontend - 🐍 Backend - 🗄️ Bancos de Dados</p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django" style="widht: 50px height="50px" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" style="widht: 50px height="50px" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" style="widht: 50px height="50px" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql" style="widht: 50px height="50px" />
 <br/><br/>
 
 ### 🌎 Conecte-se comigo:
