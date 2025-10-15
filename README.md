@@ -1,4 +1,4 @@
-<div align="center" valign="top">
+<div align="left" valign="top">
   <h3>Seja Bem vindo ao meu Perfil GitHub. 🤗</h3>
   <p>🌐 Frontend - 🐍 Backend - 🗄️ Bancos de Dados</p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" style="widht: 50px height="50px" /><br/>
@@ -12,7 +12,7 @@
 <a href="https://raphael.code9ti.com.br/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=Google%20Chrome&logoColor=white"/>
 </a>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbsouza&layout=compact&theme=dark" alt="Minhas Linguagens"/>
 </p>
 </div>
