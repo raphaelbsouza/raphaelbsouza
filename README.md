@@ -12,7 +12,4 @@
 <a href="https://raphael.code9ti.com.br/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=Google%20Chrome&logoColor=white"/>
 </a>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbsouza&layout=compact&theme=dark" alt="Minhas Linguagens"/>
-</p>
 </div>
